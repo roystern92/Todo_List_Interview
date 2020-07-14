@@ -1,0 +1,7 @@
+export const START_ACTION = 'START_ACTION';
+export const FINISH_ACTION = 'FINISH_ACTION';
+export const ADD_NEW_TODO = 'ADD_NEW_TODO';
+export const NEW_TODO_CHANGE = 'NEW_TODO_CHANGE';
+export const CHANGE_TODO_STATUS = 'CHANGE_TODO_STATUS';
+export const DELETE_TODO = 'DELETE_TODO';
+
